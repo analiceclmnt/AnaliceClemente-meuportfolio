@@ -1,0 +1,62 @@
+
+body{
+    margin:0;
+     
+}
+h1{
+    font-style: italic;
+}
+
+#TopMenu{
+    display:flex;
+    background-color:black;
+    margin:0;
+}
+#TopMenu li {
+     color:white;
+     text-decoration:none;
+     display:block;
+     padding:15px;
+}
+#TopMenu li:first-child{
+    margin-right: auto;
+
+}
+.section1 {
+    display:flex;
+    height:100vh;
+    background-color:oldlace;
+}
+.centralize {
+    margin:auto;
+    text-align:center;
+}
+.section2 {
+    display:flex;
+    width:33vh;
+    background-color:wheat;
+    
+}
+.ImagemProduto {
+    width: 15vw;
+    height: 15vw;
+    padding-left: 15px;
+}
+.section3 {
+    display:flex;
+    background-color:white;
+    width:33vw;
+}
+
+footer {
+    background-color: black;
+    padding: 30px;
+}
+
+
+    
+     
+
+
+
+
